@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter array lengt: ");
+        System.out.println("Enter array length: ");
         int a = input.nextInt();
         System.out.println("Enter array hight: ");
         int b = input.nextInt();
